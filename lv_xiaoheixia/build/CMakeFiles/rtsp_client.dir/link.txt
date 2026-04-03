@@ -1,0 +1,1 @@
+/usr/bin/arm-linux-gnueabihf-gcc  -DUSE_DRM -DUSE_EVDEV CMakeFiles/rtsp_client.dir/src/rtsp_client.c.o -o rtsp_client   -L/mnt/c/Users/nickfu/Documents/cli/xiaoheixia/lv_xiaoheixia_extracted/lv_xiaoheixia/lib  -Wl,-rpath,/mnt/c/Users/nickfu/Documents/cli/xiaoheixia/lv_xiaoheixia_extracted/lv_xiaoheixia/lib -static 

@@ -1,0 +1,1 @@
+/usr/bin/arm-linux-gnueabihf-gcc  -DUSE_DRM -DUSE_EVDEV -Wl,--dynamic-linker=/lib/ld-linux.so.3 CMakeFiles/mpp_player.dir/src/mpp_player.c.o -o mpp_player   -L/mnt/c/Users/nickfu/Documents/cli/xiaoheixia/lv_xiaoheixia_extracted/lv_xiaoheixia/lib  -Wl,-rpath,/mnt/c/Users/nickfu/Documents/cli/xiaoheixia/lv_xiaoheixia_extracted/lv_xiaoheixia/lib -ldl -lpthread 
